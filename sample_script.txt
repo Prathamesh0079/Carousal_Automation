@@ -1,0 +1,14 @@
+Slide 1: hook
+heading: How Children Think Like AI Builders
+body: They aren't just playing games; they are mastering the logic behind artificial intelligence before even learning to code.
+highlight_word: Builders
+tagline: Swipe to learn >
+
+Slide 2: content
+heading: They Break Systems To Understand Them
+body: Curiosity in the AI age looks like reverse-engineering. If they take things apart to see how they work, they are mastering logic.
+items:
+- Deconstructing complex toys
+- Questioning existing game rules
+- Testing edge cases in play
+tagline: Swipe to learn >

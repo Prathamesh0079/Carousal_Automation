@@ -1,0 +1,6 @@
+nul not found
+venv/
+output/
+.env
+__pycache__/
+*.pyc

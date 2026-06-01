@@ -1,0 +1,65 @@
+Slide 1: hook
+heading: 5 Real AI Jobs Your Child Can Aim For by 2030
+body: That pay well. That AI won't replace. That your child can aim for right now.
+highlight_word: 2030
+tagline: Starting with the one most parents have never heard of.
+
+Slide 2: content
+heading: 🧠 AI Trainer / Prompt Engineer
+body: Salary range: ₹15–35 LPA. Design the exact questions and prompts that get the best outputs from AI. AI can't prompt itself effectively.
+items:
+- Understanding how AI thinks
+- Not coding — prompt design
+- High demand, low supply
+tagline: Skill needed: Understanding how AI thinks
+
+Slide 3: content
+heading: 👨‍⚕️ AI-Augmented Doctor
+body: Salary range: Standard medical + AI premium. Use AI tools to diagnose faster, catch what humans miss, then apply human judgment.
+items:
+- Patients need human presence
+- Doctors need AI speed
+- Medical knowledge + AI literacy
+tagline: Skill needed: Medical knowledge + AI literacy
+
+Slide 4: content
+heading: ⚖️ AI Ethicist
+body: Salary range: ₹20–50 LPA at large organizations. Ensure AI systems are fair, unbiased, legally compliant, and safe.
+items:
+- AI can't audit itself for bias
+- Critical thinking required
+- Understanding AI's limitations
+tagline: Skill needed: Critical thinking
+
+Slide 5: content
+heading: 📈 AI Product Manager
+body: Salary range: ₹25–60 LPA. Decide what AI products to build, for whom, and why. Bridge between engineering and users.
+items:
+- Strategy requires human judgment
+- User empathy is irreplaceable
+- Communication + business sense
+tagline: Skill needed: Communication + AI understanding
+
+Slide 6: content
+heading: 🏭 AI-Human Collaboration Specialist
+body: Salary range: ₹18–40 LPA. Help teams work alongside AI tools. Train employees. Design AI-human workflows.
+items:
+- Humans need other humans
+- Managing change is human work
+- People skills + AI knowledge
+tagline: Skill needed: People skills + AI knowledge
+
+Slide 7: content
+heading: The Common Thread
+body: Every single job above requires understanding AI — not just using it. Cannot be done by AI alone. Commands premium salary.
+items:
+- Requires understanding AI
+- Cannot be done by AI alone
+- 5+ years of advantage by hiring time
+tagline: Children who start learning AI now will lead
+
+Slide 8: cta
+heading: Which of these 5 jobs does your child most connect with?
+body: Find out their AI starting point first. Free assessment. 8 questions. 2 minutes. Instant scorecard.
+tagline: Link in bio. No payment.
+

@@ -1,0 +1,111 @@
+### "7 AI Terms Every Class 5–10 Student Should Know"
+
+**Slide 1 / Hook**
+
+**Your child uses AI every single day.**
+
+But do they know these 7 terms?
+
+**Save this — quiz your child tonight.**
+
+*Class 5–10. All of them should know these.*
+
+---
+
+**Slide 2 / Term #1**
+
+**🤖 Algorithm**
+
+A set of instructions that tells a computer what to do — step by step.
+
+*Google uses an algorithm to rank search results. Netflix uses one to recommend shows.*
+
+*Student version: "The recipe AI follows to make decisions."*
+
+---
+
+**Slide 3 / Term #2**
+
+**🧠 Neural Network**
+
+A system that loosely mimics the human brain — layers of connected nodes that process information.
+
+*Used in face recognition, voice assistants, self-driving cars.*
+
+*Student version: "AI's brain — made of connected layers that learn from examples."*
+
+---
+
+**Slide 4 / Term #3**
+
+**📊 Training Data**
+
+The examples used to teach AI how to recognize patterns.
+
+*Show AI 10,000 cat photos — that's training data. The more, the smarter.*
+
+*Student version: "The textbook AI studies from."*
+
+---
+
+**Slide 5 / Term #4**
+
+**🔍 Bias in AI**
+
+When AI reflects unfair patterns from its training data.
+
+*Example: An AI trained mostly on male doctors' data might perform worse for female patients.*
+
+*Student version: "When AI learns the wrong lessons from bad examples."*
+
+---
+
+**Slide 6 / Term #5 + #6**
+
+**🗣️ Large Language Model (LLM)**
+
+AI trained on massive amounts of text to understand and generate language.
+
+*ChatGPT, Gemini, Claude — all LLMs.*
+
+*Student version: "An AI that read the entire internet and learned to speak."*
+
+**🔁 Generative AI**
+
+AI that creates new content — text, images, video, code — based on patterns it learned.
+
+*Student version: "AI that makes new things, not just finds old ones."*
+
+---
+
+**Slide 7 / Term #7 + Recap**
+
+**⚡ Inference**
+
+When AI uses what it learned to respond to new inputs — the "thinking" phase.
+
+*Student version: "When AI actually uses its brain to answer your question."*
+
+**Quick recap:**
+
+1. Algorithm — AI's recipe
+2. Neural Network — AI's brain
+3. Training Data — AI's textbook
+4. Bias — AI's wrong lessons
+5. LLM — AI that read the internet
+6. Generative AI — AI that creates
+7. Inference — AI thinking live
+
+*Save this. Share with your child.*
+
+---
+
+**Slide 8 / CTA**
+
+**If your child knows 5+ of these — they're ahead.**
+
+**If they know 2 or fewer — there's ground to cover. Fast.**
+
+Free assessment → 8 questions → 2 minutes → instant scorecard.
+
+*Link in bio. No payment.*
